@@ -48,3 +48,4 @@ jobs:
       - name: Deploy
         run: |
           echo "Deployment to a staging environment..."
+s
